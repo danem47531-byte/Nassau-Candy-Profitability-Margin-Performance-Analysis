@@ -33,8 +33,6 @@ and profit concentration patterns using Python & data visualization.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c9be8?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
 ---
 
 ## 📂 Project Structure
@@ -67,9 +65,6 @@ git clone https://github.com/danem47531-byte/your-repo-name
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn streamlit
-
-# 3. Open the notebook
-jupyter notebook Nassau_Candy_Profitability_Analysis.ipynb
 ```
 
 ---
