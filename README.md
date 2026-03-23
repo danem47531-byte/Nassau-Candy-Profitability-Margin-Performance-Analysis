@@ -57,18 +57,6 @@ Nassau-Candy-Analysis/
 7. **Streamlit Dashboard** — Interactive visualizations
 
 ---
-
-## ▶️ How to Run
-```bash
-# 1. Clone the repo
-git clone https://github.com/danem47531-byte/your-repo-name
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn streamlit
-```
-
----
-
 ## 👤 Author
 **Tridev** — Data Analyst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tridev-pal-74575a379/)
